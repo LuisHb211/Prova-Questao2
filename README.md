@@ -1,32 +1,32 @@
-# Projeto de Resolução de Questão de POO em C#
+# C# Object-Oriented Programming (OOP) Problem Resolution Project
 
-Este projeto foi desenvolvido usando C# no ambiente Visual Studio 2022. Ele foi criado com o objetivo de resolver uma questão relacionada à Programação Orientada a Objetos (POO).
+This project was developed using C# in the Visual Studio 2022 environment. It was created with the goal of solving a problem related to Object-Oriented Programming (OOP).
 
-## Tópicos Abordados
+## Covered Topics
 
-Durante o desenvolvimento deste projeto, foram abordados os seguintes tópicos de programação em C# e POO:
+During the development of this project, the following programming topics in C# and OOP were covered:
 
-- **Sintaxe de C#:**
+- **C# Syntax**
 
-- **Criação de um Formulário (Forms) em C#:** Foi desenvolvido um formulário (form) usando Windows Forms no C# para criar a interface do usuário.
+- **Creating a Form (Forms) in C#:** A form was developed using Windows Forms in C# to create the user interface.
 
-- **Manipulação das Propriedades dos Componentes de um Formulário:**
+- **Manipulating Properties of Form Components**
 
-- **Herança:** 
+- **Inheritance** 
 
-- **Poliomorfismo:**
+- **Polymorphism**
 
-- **Encapsulamento:**
+- **Encapsulation**
 
-## Como Utilizar o Projeto
+## How to Use the Project
 
-Para utilizar este projeto, siga as instruções a seguir:
+To use this project, follow the instructions below:
 
-1. Clone este repositório em sua máquina local.
-2. Abra o projeto no Visual Studio 2022.
-3. Explore o código-fonte para entender como os tópicos mencionados acima foram implementados.
-4. Execute o projeto e interaja com a aplicação desenvolvida.
+1. Clone this repository to your local machine.
+2. Open the project in Visual Studio 2022.
+3. Explore the source code to understand how the mentioned topics above were implemented.
+4. Run the project and interact with the developed application.
 
-## Contribuições
+## Contributions
 
-Contribuições são bem-vindas. Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias ou correções neste projeto.
+Contributions are welcome. Feel free to open issues or send pull requests for improvements or fixes in this project.
