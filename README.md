@@ -8,7 +8,7 @@ During the development of this project, the following programming topics in C# a
 
 - **C# Syntax**
 
-- **Creating a Form (Forms) in C#:** A form was developed using Windows Forms in C# to create the user interface.
+- **Creating a Form (Forms) in C#:** A form was developed using Visual Studio in C# to create the user interface.
 
 - **Manipulating Properties of Form Components**
 
